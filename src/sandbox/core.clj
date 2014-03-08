@@ -7,8 +7,7 @@
 (defn attack [x y]
   (let [a (sort (roll (:att x)))
 		d (sort (roll (:def y)))]
-	(println(list a d))
-	))
+	(println(list a d))))
 
 (defn count-hits [x y]
   ;(println "count-hits " x y)
