@@ -1,0 +1,1 @@
+([:dependencies ([org.clojure/clojure "LATEST"] [org.clojure/java.jdbc "LATEST"] [org.xerial/sqlite-jdbc "LATEST"] [org.clojure/tools.nrepl "0.2.3" :exclusions ([org.clojure/clojure])] [clojure-complete/clojure-complete "0.2.3" :exclusions ([org.clojure/clojure])])])
